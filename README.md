@@ -41,11 +41,11 @@ time.h
 
 💻 Compilation & Execution
 🔹 Linux / macOS
-gcc password_generator.c -o password_generator
+gcc main.c -o password_generator
 ./password_generator
 
 🔹 Windows (MinGW)
-gcc password_generator.c -o password_generator.exe
+gcc main.c -o password_generator.exe
 password_generator.exe
 
 🧪 Example Run
@@ -87,3 +87,9 @@ Add strength meter
 📜 License
 
 Free to use for educational purposes.
+
+
+📁 Repository Structure
+
+- `main.c` — Password generator source code
+- `tamilpasswords/` — Folder for Tamil-specific password exports/assets
