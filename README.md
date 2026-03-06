@@ -92,4 +92,3 @@ Free to use for educational purposes.
 📁 Repository Structure
 
 - `main.c` — Password generator source code
-- `tamilpasswords/` — Folder for Tamil-specific password exports/assets
